@@ -1,0 +1,45 @@
+Now I want to set another API link for Our Management Team
+here API links
+https://lifeandhealth.esoft.family/api/board-of-directors
+
+
+
+https://lifeandhealth.esoft.family/api/menus (OK)
+https://lifeandhealth.esoft.family/api/footermenu (OK)
+https://lifeandhealth.esoft.family/api/top-header (OK)
+https://lifeandhealth.esoft.family/api/slider (OK)
+
+
+
+https://lifeandhealth.esoft.family/api/hero-services (OK)
+Welcome to Life & Health
+https://lifeandhealth.esoft.family/api/welcome-section (OK)
+OurServices
+https://lifeandhealth.esoft.family/api/services (OK)
+//Details
+https://lifeandhealth.esoft.family/api/services/{slug} (OK)
+Our Work Process
+https://lifeandhealth.esoft.family/api/work-process (OK)
+Why Choose Us
+https://lifeandhealth.esoft.family/api/why-choose (OK)
+Our Partner Hospitals
+https://lifeandhealth.esoft.family/api/partner-hospitals (OK)
+//Details
+https://lifeandhealth.esoft.family/api/partner-hospitals/{slug} (OK)
+Talk to Our Consultants
+https://lifeandhealth.esoft.family/api/talk-to-consultant (OK)
+Customer Reviews
+https://lifeandhealth.esoft.family/api/customer-reviews  (OK)
+Our Partners 
+https://lifeandhealth.esoft.family/api/partners (OK)
+Our Location
+https://lifeandhealth.esoft.family/api/footer-locations (OK)
+
+Our Management Team
+https://lifeandhealth.esoft.family/api/board-of-directors
+Patient Testimonial
+https://lifeandhealth.esoft.family/api/patient-testimonials
+Gallery
+https://lifeandhealth.esoft.family/api/photo
+Video Gallery
+https://lifeandhealth.esoft.family/api/video
